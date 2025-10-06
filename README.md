@@ -5,7 +5,7 @@
 > Key facts about my experience
 
 - Started in IT back in school, with a focus on development ever since  
-- 5 years of experience in commercial development, solving interesting problems and improving processes  
+- 5+ years of experience in commercial development, solving interesting problems and improving processes  
 - Enjoy working in teams where openness and mutual support are valued  
 - Passionate about projects that offer growth opportunities and require creative problem-solving
 - Algorithms: ![CodeWars Badge](https://www.codewars.com/users/beeek18/badges/micro) ![LeetCode Solved Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbeeek18&logo=leetcode&logoColor=yellow)
@@ -69,23 +69,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### **Connect with me**
-
-<a target="_blank" href="https://www.linkedin.com/in/beeek18">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-<a target="_blank" href="https://t.me/beeek18">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a target="_blank" href="https://www.facebook.com/beeek18">
-  <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a target="_blank" href="https://instagram.com/beeek1805">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-</a>
-<a target="_blank" href="mailto:kodirovbekzod@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
